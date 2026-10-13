@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bài 9 - VietSchool</title>
+
+<style>
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #020617;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
+}
+</style>
+
+<script>
+(function () {
+    var store = {};
+    var lastError = "0";
+
+    window.API = {
+        LMSInitialize: function () {
+            lastError = "0";
+            return "true";
+        },
+
+        LMSFinish: function () {
+            lastError = "0";
+            return "true";
+        },
+
+        LMSGetValue: function (key) {
+            lastError = "0";
+            return store[key] || "";
+        },
+
+        LMSSetValue: function (key, value) {
+            store[key] = String(value);
+            lastError = "0";
+
+            try {
+                localStorage.setItem(
+                    "bai9_scorm_" + key,
+                    String(value)
+                );
+            } catch (e) {}
+
+            return "true";
+        },
+
+        LMSCommit: function () {
+            lastError = "0";
+            return "true";
+        },
+
+        LMSGetLastError: function () {
+            return lastError;
+        },
+
+        LMSGetErrorString: function () {
+            return "No error";
+        },
+
+        LMSGetDiagnostic: function () {
+            return "";
+        }
+    };
+})();
+</script>
+</head>
+
+<body>
+
+<iframe
+    src="./index.html"
+    allow="autoplay; fullscreen"
+    allowfullscreen>
+</iframe>
+
+</body>
+</html>
