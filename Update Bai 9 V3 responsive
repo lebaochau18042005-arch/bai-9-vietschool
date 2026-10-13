@@ -1529,7 +1529,89 @@
     }
     .animate-correct-pop { animation: correctPop 0.35s ease-out, glowEmerald 1.8s infinite; }
     .animate-shake-alert { animation: shakeAlert 0.4s ease-in-out; }
-  </style>
+  
+/* VietSchool iframe compatibility + responsive V2 */
+html, body { width: 100%; max-width: 100%; overflow-x: hidden; }
+#player-container { width: 100% !important; max-width: 1600px !important; }
+#slide-stage { width: 100%; }
+#slide-stage .grid { width: 100%; min-width: 0; }
+#slide-stage img, #slide-stage video { max-width: 100%; height: auto; }
+#slide-stage .overflow-y-auto { min-width: 0; }
+@media (min-width: 768px) {
+  #slide-stage .md\:grid-cols-12 { grid-template-columns: repeat(12, minmax(0, 1fr)) !important; }
+  #slide-stage .md\:col-span-5 { grid-column: span 5 / span 5 !important; }
+  #slide-stage .md\:col-span-7 { grid-column: span 7 / span 7 !important; }
+}
+@media (max-width: 767px) {
+  #slide-stage .grid { grid-template-columns: minmax(0, 1fr) !important; }
+}
+
+/* VietSchool Responsive V3 — independent of Tailwind responsive selectors */
+.stage-wrapper { width:100%; padding:8px; align-items:stretch; }
+.player-card {
+  width:100% !important;
+  max-width:none !important;
+  min-height:720px;
+  height:calc(100vh - 16px);
+  max-height:none !important;
+  border-radius:14px;
+}
+.content-area { width:100%; padding:clamp(12px, 1.4vw, 24px); }
+#slide-stage > .flex-1 { width:100%; min-width:0; }
+.lesson-grid {
+  display:grid !important;
+  width:100% !important;
+  min-width:0 !important;
+  gap:clamp(14px, 1.5vw, 24px) !important;
+  align-items:stretch !important;
+}
+.lesson-grid.has-media {
+  grid-template-columns:minmax(0, 1.35fr) minmax(360px, .85fr) !important;
+}
+.lesson-grid.no-media { grid-template-columns:minmax(0,1fr) !important; }
+.lesson-text, .lesson-media { min-width:0 !important; width:100% !important; }
+.lesson-text { padding-right:4px; overflow-wrap:anywhere; word-break:normal; }
+.lesson-text p, .lesson-text li, .lesson-text button, .lesson-text div { max-width:100%; }
+.lesson-text > p { font-size:clamp(15px, .95vw, 18px) !important; line-height:1.62 !important; }
+.lesson-text li { font-size:clamp(14px, .9vw, 17px) !important; line-height:1.5 !important; }
+.lesson-text .text-xs { font-size:clamp(13px, .82vw, 16px) !important; }
+.lesson-text .text-sm { font-size:clamp(14px, .9vw, 17px) !important; }
+.lesson-media {
+  min-height:360px !important;
+  max-height:none !important;
+  overflow:hidden;
+}
+.lesson-media img {
+  display:block;
+  width:100% !important;
+  max-width:100% !important;
+  max-height:460px !important;
+  object-fit:contain !important;
+  margin:auto;
+}
+.lesson-video {
+  width:100% !important;
+  max-height:460px !important;
+  min-height:260px;
+  object-fit:contain !important;
+}
+#slide-stage h2 { font-size:clamp(22px, 1.8vw, 34px) !important; line-height:1.18 !important; }
+#slide-stage { overflow-x:hidden !important; }
+#slide-stage .grid-cols-1, #slide-stage .grid-cols-2, #slide-stage .grid-cols-3 { min-width:0; }
+@media (max-width: 1199px) {
+  .lesson-grid.has-media { grid-template-columns:minmax(0,1fr) !important; }
+  .lesson-media { min-height:300px !important; }
+  .lesson-media img, .lesson-video { max-height:420px !important; }
+  .player-card { min-height:680px; }
+}
+@media (max-width: 767px) {
+  .top-header { flex-wrap:wrap; }
+  .player-card { min-height:620px; height:auto; border-radius:10px; }
+  .content-area { padding:12px; }
+  .lesson-media { min-height:260px !important; }
+  .lesson-media img, .lesson-video { max-height:340px !important; }
+}
+</style>
 </head>
 <body class="bg-slate-950 text-slate-100 min-h-screen selection:bg-emerald-500 selection:text-white">
   
@@ -1637,15 +1719,28 @@
     // SCORM 1.2 Adapter
     var findAPI = function(win) {
       var findAttempts = 0;
-      while ((win.API == null) && (win.parent != null) && (win.parent != win)) {
+      while (win && findAttempts <= 7) {
+        try {
+          if (win.API) return win.API;
+          if (!win.parent || win.parent === win) return null;
+          win = win.parent;
+        } catch (e) {
+          // Cross-origin iframe (VietSchool): parent window is intentionally inaccessible.
+          // Continue without SCORM instead of stopping the lesson renderer.
+          return null;
+        }
         findAttempts++;
-        if (findAttempts > 7) return null;
-        win = win.parent;
       }
-      return win.API;
+      return null;
     };
-    
-    var scormAPI = findAPI(window) || (window.opener ? findAPI(window.opener) : null);
+
+    var scormAPI = null;
+    try {
+      scormAPI = findAPI(window);
+      if (!scormAPI && window.opener) scormAPI = findAPI(window.opener);
+    } catch (e) {
+      scormAPI = null;
+    }
     var isScormAvailable = !!scormAPI;
     
     if (isScormAvailable) {
@@ -3118,10 +3213,10 @@
       var defaultTab = (hasVideo && s.mediaType === 'video') ? 'video' : hasDiagram ? 'diagram' : hasImage ? 'image' : hasVideo ? 'video' : 'none';
       var activeTab = activeMediaTabs[s.id] || defaultTab;
 
-      html += '<div class="grid ' + (hasMedia ? 'grid-cols-1 md:grid-cols-12 gap-5' : 'grid-cols-1') + ' flex-1 min-h-0 items-stretch">';
+      html += '<div class="lesson-grid ' + (hasMedia ? 'has-media' : 'no-media') + ' flex-1 min-h-0 items-stretch">';
 
       // Left: Text
-      html += '<div class="' + (hasMedia ? 'md:col-span-7' : 'w-full') + ' space-y-3 overflow-y-auto pr-1">';
+      html += '<div class="lesson-text space-y-3 overflow-y-auto">';
       if (s.mainText) {
         html += '<p class="text-xs sm:text-sm text-slate-200 leading-relaxed bg-slate-850 p-3.5 rounded-2xl border border-slate-800">' + s.mainText + '</p>';
       }
@@ -3205,7 +3300,7 @@
 
       // Right: Media
       if (hasMedia) {
-        html += '<div class="md:col-span-5 flex flex-col justify-between bg-slate-850/80 rounded-2xl p-3 border border-slate-800/80 min-h-[300px]">';
+        html += '<div class="lesson-media flex flex-col justify-between bg-slate-850/80 rounded-2xl p-3 border border-slate-800/80">';
         
         var mediaTabList = [];
         if (hasDiagram) mediaTabList.push({ id: 'diagram', label: '📐 Mô phỏng tương tác SGK' });
@@ -3231,7 +3326,7 @@
         } else if (activeTab === 'video' && s.videoUrl) {
           html += '<div class="w-full flex flex-col justify-center items-center space-y-2">';
           if (isDirectVideo(s.videoUrl)) {
-            html += '<video id="slide-video" controls playsinline preload="auto" class="w-full max-h-72 rounded-2xl shadow-xl bg-black object-contain border border-slate-700">' +
+            html += '<video id="slide-video" controls playsinline preload="auto" class="lesson-video w-full rounded-2xl shadow-xl bg-black object-contain border border-slate-700">' +
               '<source src="' + s.videoUrl + '">' +
               '<source src="' + s.videoUrl + '" type="video/mp4">' +
               '<source src="' + s.videoUrl + '" type="video/webm">' +
@@ -3308,8 +3403,16 @@
       }
     });
 
-    // Start playback
-    renderSlide();
+    // Start playback. Keep a visible diagnostic fallback if rendering is blocked by the host.
+    try {
+      renderSlide();
+    } catch (err) {
+      console.error('VietSchool embed render error:', err);
+      var stage = document.getElementById('slide-stage');
+      if (stage) {
+        stage.innerHTML = '<div style="padding:24px;color:#f8fafc;background:#0f172a;border:1px solid #334155;border-radius:16px"><b>Không thể khởi tạo bài giảng.</b><br><span style="color:#cbd5e1">Vui lòng mở lại học liệu hoặc báo giáo viên. Mã lỗi: ' + String(err && err.message ? err.message : err) + '</span></div>';
+      }
+    }
   </script>
 </body>
 </html>
