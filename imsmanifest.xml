@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="MANIFEST-DIALI10-BAI9" version="1.0"
+ xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+ xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="ORG-DIALI10-BAI9">
+    <organization identifier="ORG-DIALI10-BAI9">
+      <title>Bài 9: Khí quyển, các yếu tố khí hậu</title>
+      <item identifier="ITEM-DIALI10-BAI9" identifierref="RES-DIALI10-BAI9" isvisible="true">
+        <title>Bài 9: Khí quyển, các yếu tố khí hậu</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-DIALI10-BAI9" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="lesson_data.json"/>
+      <dependency identifierref="RES-MEDIA"/>
+    </resource>
+    <resource identifier="RES-MEDIA" type="webcontent" adlcp:scormtype="asset">
+      <file href="media/image_slide-4.png"/>
+      <file href="media/image_slide-5.jpg"/>
+      <file href="media/image_slide-7.jpg"/>
+      <file href="media/image_slide-9.jpg"/>
+      <file href="media/image_slide-custom-1791532081288.jpg"/>
+      <file href="media/narration_slide-1.mp3"/>
+      <file href="media/narration_slide-10.mp3"/>
+      <file href="media/narration_slide-11.mp3"/>
+      <file href="media/narration_slide-12.mp3"/>
+      <file href="media/narration_slide-13.mp3"/>
+      <file href="media/narration_slide-14.mp3"/>
+      <file href="media/narration_slide-15.mp3"/>
+      <file href="media/narration_slide-16.mp3"/>
+      <file href="media/narration_slide-17.mp3"/>
+      <file href="media/narration_slide-18.mp3"/>
+      <file href="media/narration_slide-19.mp3"/>
+      <file href="media/narration_slide-2.mp3"/>
+      <file href="media/narration_slide-20.mp3"/>
+      <file href="media/narration_slide-3.mp3"/>
+      <file href="media/narration_slide-4.mp3"/>
+      <file href="media/narration_slide-5.mp3"/>
+      <file href="media/narration_slide-6.mp3"/>
+      <file href="media/narration_slide-7.mp3"/>
+      <file href="media/narration_slide-8.mp3"/>
+      <file href="media/narration_slide-9.mp3"/>
+      <file href="media/narration_slide-custom-1791532081288.mp3"/>
+      <file href="media/video_slide-10.mp4"/>
+    </resource>
+  </resources>
+</manifest>

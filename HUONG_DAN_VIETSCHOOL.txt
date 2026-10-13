@@ -1,0 +1,10 @@
+GÓI SCORM 1.2 / HTML5 OFFLINE CHO VIETSCHOOL
+
+- File khởi chạy: index.html
+- SCORM manifest: imsmanifest.xml
+- Không dùng Google Fonts, Tailwind CDN, Unsplash hoặc YouTube.
+- Toàn bộ CSS, hình ảnh, âm thanh và video dùng tài nguyên cục bộ trong gói.
+- Mastery Score: 80%.
+- Điểm: 0-100; trạng thái passed/failed/completed.
+
+Cách dùng: tải NGUYÊN file ZIP lên VietSchool, không giải nén.

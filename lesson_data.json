@@ -1,0 +1,902 @@
+{
+  "metadata": {
+    "subject": "ĐỊA LÍ",
+    "grade": "LỚP 10",
+    "lessonName": "BÀI 9: KHÍ QUYỂN, CÁC YẾU TỐ KHÍ HẬU",
+    "curriculum": "Chương trình Giáo dục phổ thông 2018 (Sách Kết nối tri thức với cuộc sống)",
+    "duration": "2 tiết (90 phút)",
+    "author": "GV: LÊ THỊ THÁI, TỔ: ĐỊA LÍ - GDKTPL",
+    "institution": "THPT BÌNH PHÚ - BÌNH DƯƠNG",
+    "schoolYear": "2024 - 2025",
+    "learningOutcomes": [
+      "Nêu được khái niệm khí quyển và trình bày được cấu trúc 5 tầng của khí quyển.",
+      "Trình bày được sự phân bố nhiệt độ không khí trên Trái Đất theo vĩ độ, lục địa - đại dương, địa hình.",
+      "Trình bày được sự hình thành các đai khí áp trên Trái Đất và nguyên nhân thay đổi khí áp.",
+      "Trình bày được sự phân bố một số loại gió chính (Mậu dịch, Tây ôn đới, Đông cực, Gió mùa) và gió địa phương (gió đất - gió biển, gió phơn).",
+      "Phân tích được các nhân tố ảnh hưởng đến lượng mưa và quy luật phân bố mưa trên Trái Đất.",
+      "Phân tích được các bảng số liệu, sơ đồ, lược đồ khí quyển và giải thích được các hiện tượng thời tiết thực tế."
+    ]
+  },
+  "slides": [
+    {
+      "id": "slide-1",
+      "slideNumber": 1,
+      "type": "intro",
+      "category": "Khởi động",
+      "title": "BÀI 9: KHÍ QUYỂN, CÁC YẾU TỐ KHÍ HẬU",
+      "subtitle": "THPT BÌNH PHÚ - BÌNH DƯƠNG | GV: LÊ THỊ THÁI, TỔ: ĐỊA LÍ - GDKTPL",
+      "keyTakeaways": [
+        "Đơn vị: TRƯỜNG THPT BÌNH PHÚ - TỈNH BÌNH DƯƠNG",
+        "Giáo viên giảng dạy: LÊ THỊ THÁI — TỔ: ĐỊA LÍ - GDKTPL",
+        "Bộ sách: Kết nối tri thức với cuộc sống (Chương trình GDPT 2018)",
+        "Khung bài giảng e-Learning tương tác chuẩn SCORM 1.2 / HTML5 LMS"
+      ],
+      "mainText": "Chào mừng các em học sinh đến với bài giảng điện tử tương tác e-Learning môn Địa lí lớp 10. Bài học hôm nay sẽ giúp các em giải mã những bí ẩn của bầu khí quyển – chiếc áo giáp che chở sự sống của hành tinh xanh và các quy luật kỳ thú của thời tiết, khí hậu trên Trái Đất.",
+      "mediaType": "image",
+      "imageUrl": "media/image_slide-4.png",
+      "imageCaption": "Bầu khí quyển Trái Đất nhìn từ không gian vũ trụ",
+      "audioScript": "Chào mừng các em học sinh đến với bài giảng e-Learning Địa lí lớp 10: \nTrái Đất của chúng ta được bao quanh bởi một lớp không khí rất đặc biệt, đó chính là khí quyển.  \nMặc dù chúng ta không thể nhìn thấy khí quyển bằng mắt thường, nhưng mỗi ngày, chúng ta đều cảm nhận được những gì đang diễn ra trong đó: khi trời nóng lên, khi gió bắt đầu thổi, khi mây hình thành hay khi những cơn mưa bất chợt xuất hiện.\nCó bao giờ các em tự hỏi: Vì sao có nơi trên Trái Đất quanh năm nóng, nhưng cũng có những nơi luôn lạnh giá? Vì sao có khu vực mưa rất nhiều, trong khi một số nơi lại khô hạn? Và điều gì khiến không khí chuyển động để tạo thành gió?\nNhững hiện tượng tưởng như rất quen thuộc ấy lại có mối liên hệ chặt chẽ với nhiệt độ, khí áp, gió, độ ẩm, mây và mưa.\nHãy thử quan sát thời tiết quanh chúng ta. Một buổi sáng có thể bắt đầu bằng bầu trời trong xanh và nắng mạnh. Nhưng chỉ vài giờ sau, mây đen xuất hiện, gió thổi mạnh hơn và một cơn mưa lớn có thể bất ngờ xảy ra.\nVậy điều gì đã thay đổi trong khí quyển?\nNhiệt độ có ảnh hưởng đến khí áp không? Khí áp thay đổi có tạo ra gió không? Và gió cùng với hơi nước trong không khí có liên quan như thế nào đến sự hình thành mây và mưa?\nĐể trả lời những câu hỏi đó, chúng ta sẽ cùng khám phá Bài 9: Khí quyển – Các yếu tố khí hậu.\nQua bài học này, các em sẽ từng bước giải mã những hiện tượng thời tiết diễn ra hằng ngày và hiểu rõ hơn vì sao khí hậu trên Trái Đất lại đa dạng đến như vậy.",
+      "formulaOrRule": "",
+      "emCoBiet": "",
+      "videoUrl": "",
+      "hideMedia": false,
+      "recordedAudioUrl": "media/narration_slide-1.mp3",
+      "layoutMode": "split_50_50",
+      "narrationAudioUrl": "media/narration_slide-1.mp3"
+    },
+    {
+      "id": "slide-2",
+      "slideNumber": 2,
+      "type": "objectives",
+      "category": "Khởi động",
+      "title": "MỤC TIÊU CẦN ĐẠT CỦA BÀI HỌC (YCCĐ)",
+      "subtitle": "Định hướng phát triển phẩm chất và năng lực Địa lí",
+      "keyTakeaways": [
+        "Năng lực nhận thức: Khái niệm khí quyển, cấu trúc 5 tầng, các khối khí & frông.",
+        "Năng lực phân tích: Phân tích quy luật nhiệt độ, khí áp, hoàn lưu gió và lượng mưa.",
+        "Năng lực vận dụng: Giải thích thơ ca (gió Phơn Trường Sơn), chọn trang phục du lịch Sa Pa, Đà Lạt."
+      ],
+      "mainText": "Sau khi hoàn thành 5 chặng học tập khép kín của bài học này, học sinh sẽ đạt được các chuẩn năng lực cốt lõi theo Chương trình GDPT 2018, đồng thời tự tin làm chủ các câu hỏi kiểm tra đánh giá định kỳ.",
+      "mediaType": "interactive_diagram",
+      "diagramType": "atmosphere_layers",
+      "imageCaption": "Xoáy thuận nhiệt đới hình thành ở vùng áp thấp xích đạo và biển nhiệt đới",
+      "audioScript": "Về mục tiêu bài học: Các em cần nêu được khái niệm khí quyển, cấu tạo năm tầng, trình bày sự phân bố nhiệt độ, khí áp, gió và lượng mưa; đồng thời biết phân tích số liệu và vận dụng giải thích các hiện tượng thời tiết trong cuộc sống hằng ngày.",
+      "formulaOrRule": "",
+      "emCoBiet": "",
+      "imageUrl": "media/image_slide-4.png",
+      "videoUrl": "",
+      "hideMedia": false,
+      "recordedAudioUrl": "media/narration_slide-2.mp3",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác: Cấu trúc khí quyển theo chiều thẳng đứng từ mặt đất lên cao gồm mấy tầng?",
+        "options": [
+          "A. 3 tầng",
+          "B. 4 tầng",
+          "C. 5 tầng (Đối lưu, Bình lưu, Giữa, Nhiệt, Khuếch tán)",
+          "D. 6 tầng"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Đáp án đúng là C. Khí quyển Trái Đất có cấu trúc 5 tầng thẳng đứng: Tầng đối lưu, Tầng bình lưu, Tầng giữa, Tầng nhiệt và Tầng khuếch tán."
+      },
+      "narrationAudioUrl": "media/narration_slide-2.mp3"
+    },
+    {
+      "id": "slide-3",
+      "slideNumber": 3,
+      "type": "warmup",
+      "category": "Khởi động",
+      "title": "HOẠT ĐỘNG KHỞI ĐỘNG: BẦU KHÍ QUYỂN QUANH TA",
+      "subtitle": "Kích hoạt tư duy: Trái Đất sẽ ra sao nếu không có khí quyển?",
+      "keyTakeaways": [
+        "Trái Đất là hành tinh có kích thước đủ lớn để giữ được bầu khí quyển bao quanh nhờ lực hấp dẫn.",
+        "Nếu không có khí quyển, bề mặt Trái Đất sẽ chênh lệch nhiệt độ khủng khiếp (ngày trên 100°C, đêm âm 150°C) như Mặt Trăng.",
+        "Khí quyển là tấm khiên chặn thiên thạch và lọc bức xạ tử ngoại (UV) nguy hiểm từ Mặt Trời."
+      ],
+      "mainText": "Hãy thử hình dung: Nếu một ngày bầu khí quyển biến mất trong 5 giây, điều gì sẽ xảy ra với loài người và sinh vật? Câu hỏi gợi mở này nhắc nhở chúng ta về tầm quan trọng sống còn của khí quyển đối với hành tinh xanh.",
+      "mediaType": "image",
+      "imageUrl": "media/image_slide-4.png",
+      "imageCaption": "Xoáy thuận nhiệt đới hình thành ở vùng áp thấp xích đạo và biển nhiệt đới",
+      "audioScript": "Trước khi bước vào bài học, các em hãy suy ngẫm: Tại sao Trái Đất của chúng ta lại giữ được bầu khí quyển bao quanh, trong khi Mặt Trăng thì không? Lực hấp dẫn của Trái Đất cùng với kích thước phù hợp đã tạo nên lớp vỏ khí kỳ diệu này.",
+      "formulaOrRule": "",
+      "emCoBiet": "",
+      "videoUrl": "",
+      "hideMedia": false,
+      "recordedAudioUrl": "media/narration_slide-3.mp3",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi khởi động: Nếu không có bầu khí quyển bao quanh, điều gì sẽ xảy ra với bề mặt Trái Đất?",
+        "options": [
+          "A. Nhiệt độ ngày đêm chênh lệch cực lớn (ngày >100°C, đêm âm 150°C) như Mặt Trăng",
+          "B. Trái Đất sẽ ấm hơn vì đón nhận trực tiếp ánh nắng Mặt Trời",
+          "C. Bầu trời sẽ có màu xanh biếc vĩnh cửu không bao giờ đổi",
+          "D. Nước biển sẽ dâng cao gấp đôi do không bị khí áp nén"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Đáp án đúng là A. Không có khí quyển giữ nhiệt điều hòa, Trái Đất sẽ chịu sự khắc nghiệt ngày thiêu đốt trên 100°C và đêm băng giá âm 150°C như bề mặt Mặt Trăng."
+      },
+      "narrationAudioUrl": "media/narration_slide-3.mp3"
+    },
+    {
+      "id": "slide-4",
+      "slideNumber": 4,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "1. KHÁI NIỆM & CẤU TRÚC KHÍ QUYỂN",
+      "subtitle": "Khám phá 5 tầng khí quyển theo chiều thẳng đứng",
+      "keyTakeaways": [
+        "Khái niệm: Khí quyển là lớp không khí bao quanh Trái Đất, chịu ảnh hưởng của Vũ Trụ, trước hết là Mặt Trời.",
+        "Thành phần: Nitơ 78,1%, Ô-xy 20,9%, các khí khác (ác-gông, CO2, hơi nước, bụi...) 1%.",
+        "5 Tầng từ thấp lên cao: Đối lưu (0 - 16km), Bình lưu (16 - 50km), Giữa (50 - 85km), Nhiệt (85 - 800km), Khuếch tán (> 800km).",
+        "Tầng đối lưu quan trọng nhất: Chứa 80% khối lượng không khí, hầu hết hơi nước; nơi sinh ra mây, mưa, sấm chớp, bão..."
+      ],
+      "formulaOrRule": "Tầng đối lưu: Cứ lên cao 100m, nhiệt độ không khí giảm trung bình 0,6°C.",
+      "emCoBiet": "Tầng bình lưu có lớp ô-dôn (ozone) ở độ cao 20 - 25km, đóng vai trò như chiếc kính râm khổng lồ hấp thụ tia tử ngoại độc hại chiếu từ Mặt Trời.",
+      "mediaType": "interactive_diagram",
+      "diagramType": "atmosphere_layers",
+      "imageCaption": "Hình 9.1: Cấu trúc các tầng khí quyển Trái Đất",
+      "audioScript": "Khí quyển là lớp không khí bao quanh Trái Đất luôn chịu ảnh hưởng của Vũ Trụ trước hết là Mạt Trời.\nThành phần của Khí Quyển là không khí bao gồm các hợp chất chủ yếu là Ni -tơ (78%); o-xy-gen(21%); khí khác: 1%.\n Về cấu trúc thẳng đứng, khí quyển chia thành năm tầng: Đối lưu, Bình lưu, Giữa, Nhiệt và Khuếch tán. Trong đó, tầng đối lưu là quan trọng nhất vì tập trung phần lớn không khí và là nơi diễn ra mọi hiện tượng thời tiết.",
+      "mainText": "",
+      "imageUrl": "media/image_slide-4.png",
+      "videoUrl": "",
+      "hideMedia": false,
+      "recordedAudioUrl": "media/narration_slide-4.mp3",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Tầng nào của khí quyển tập trung 80% khối lượng không khí và là nơi diễn ra hầu hết các hiện tượng thời tiết?",
+        "options": [
+          "A. Tầng bình lưu (Stratosphere)",
+          "B. Tầng đối lưu (Troposphere)",
+          "C. Tầng giữa (Mesosphere)",
+          "D. Tầng nhiệt (Thermosphere)"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Đáp án đúng là B. Tầng đối lưu (0 - 16 km) chứa 80% không khí và 3/4 lượng hơi nước, là nơi sinh ra mọi hiện tượng mây mưa thời tiết."
+      },
+      "narrationAudioUrl": "media/narration_slide-4.mp3"
+    },
+    {
+      "id": "slide-5",
+      "slideNumber": 5,
+      "type": "content",
+      "category": "Khởi động",
+      "title": "CÁC KHỐI KHÍ",
+      "subtitle": "Bề mặt tiếp xúc và sự xáo trộn thời tiết mãnh liệt",
+      "keyTakeaways": [
+        "4 Khối khí chính (mỗi bán cầu): Khối khí cực (A) rất lạnh; Ôn đới (P) lạnh; Chí tuyến (T) rất nóng; Xích đạo (E) nóng ẩm."
+      ],
+      "formulaOrRule": "",
+      "emCoBiet": "",
+      "mediaType": "image",
+      "imageUrl": "media/image_slide-5.jpg",
+      "imageCaption": "Đám mây dông khổng lồ hình thành khi frông lạnh di chuyển tới",
+      "audioScript": "Ở tầng đối lưu, không khí hình thành bốn khối khí chính ở mỗi bán cầu: cực (A), ôn đới (P), chí tuyến (T) và xích đạo (E). Mỗi khối khí lại chia thành 2 kiểu lục địa (c) có tính chất khô; kiểu hải dương (m) có tính chất ẩm.\n Khi hai khối khí khác biệt gặp nhau, ranh giới giữa chúng gọi là frông, mỗi bán cầu  có 2 Frông cơ bản là Frông địa cưch và Frông ôn đới. Khi frông đi qua, thời tiết xáo trộn mạnh mẽ, thường kèm theo mây mù và mưa dông.",
+      "mainText": "(FIT) dịch chuyển ở 2 bán cầu theo sự dịch chuyển của biểu kiến Mặt Trời.  Một trong các nhân tố gây mưa cho Trung Bộ vá cả nước là hoạt động của FIT",
+      "videoUrl": "",
+      "hideMedia": false,
+      "recordedAudioUrl": "media/narration_slide-5.mp3",
+      "layoutMode": "split_50_50",
+      "mediaPosition": "right",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Ranh giới tiếp xúc giữa hai khối khí có nguồn gốc và tính chất vật lý khác nhau được gọi là gì?",
+        "options": [
+          "A. Frông khí quyển",
+          "B. Đai khí áp",
+          "C. Dòng biển nóng",
+          "D. Tầng điện ly"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Đáp án đúng là A. Frông khí quyển là mặt tiếp xúc giữa 2 khối khí khác biệt. Nơi có frông đi qua thời tiết luôn xáo trộn mạnh mẽ."
+      },
+      "narrationAudioUrl": "media/narration_slide-5.mp3"
+    },
+    {
+      "id": "slide-custom-1791532081288",
+      "slideNumber": 6,
+      "type": "content",
+      "category": "Khởi động",
+      "title": "HOẠT ĐỘNG CỦA FRONG VÀ DẢI HỘI TỤ NHIỆT ĐỚI",
+      "subtitle": "",
+      "keyTakeaways": [
+        "Khái niệm Frông: Là mặt tiếp xúc giữa hai khối khí có nguồn gốc và tính chất vật lí khác nhau.",
+        "Mỗi bán cầu có 2 frông căn bản: Frông địa cực (FA) và Frông ôn đới (FP).",
+        "Dải hội tụ nhiệt đới (FIT): Nơi tiếp xúc của hai khối khí xích đạo từ hai bán cầu, thường xuyên tạo mưa dông lớn."
+      ],
+      "mainText": "(FIT) dịch chuyển ở 2 bán cầu theo sự dịch chuyển của biểu kiến Mặt Trời.  Một trong các nhân tố gây mưa cho Trung Bộ vá cả nước là hoạt động của FIT",
+      "mediaType": "image",
+      "imageUrl": "media/image_slide-custom-1791532081288.jpg",
+      "imageCaption": "Hình ảnh minh họa bài học",
+      "audioScript": "Frông là mặt ngăn cách của 2 khối khí khác biệt nhau về tính chất vật lí. Mỗi bán cầu có 2 Frông căn bản là Frông địa cực vàFrông ôn đới.\nDải hội tụ nhiệt đới được hình thành ở khu vực xích đạo bắc và nam, hoạt động do chuyển động biểu kiến của Mặt Trời",
+      "layoutMode": "split_50_50",
+      "mediaPosition": "right",
+      "formulaOrRule": "Nơi có F và FIT đi qua có mưa nhiều",
+      "emCoBiet": "Chí tuyến và xích đạo không tạo thành F vì cả 2 cùng nóng như nhau. \n Giữa xích đạo và chí tuyến tạo thành dải hội tụ nhiệt đới",
+      "videoUrl": "",
+      "hideMedia": false,
+      "recordedAudioUrl": "media/narration_slide-custom-1791532081288.mp3",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Tại sao nhiệt độ trung bình năm cao nhất ở Bán cầu Bắc không ở Xích đạo mà lại ở vĩ độ 20°B?",
+        "options": [
+          "A. Vì vĩ độ 20°B có diện tích lục địa rộng lớn, ít mây, hoang mạc hấp thụ nhiệt mạnh",
+          "B. Vì Xích đạo nằm xa Mặt Trời hơn vùng chí tuyến",
+          "C. Vì vùng chí tuyến có nhiều băng tuyết phản chiếu nhiệt",
+          "D. Vì vùng Xích đạo gió mùa thổi quanh năm làm lạnh"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Đáp án đúng là A. Vùng 20°B có diện tích lục địa mênh mông, ít mây che phủ nên tích tụ nhiệt cao nhất (25,0°C so với 24,5°C ở Xích đạo)."
+      },
+      "diagramType": "temperature_table",
+      "narrationAudioUrl": "media/narration_slide-custom-1791532081288.mp3"
+    },
+    {
+      "id": "slide-6",
+      "slideNumber": 7,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "2. NHIỆT ĐỘ KHÔNG KHÍ PHÂN BỐ THEO VĨ ĐỘ",
+      "subtitle": "Quy luật góc chiếu tia sáng mặt trời và các vành đai nhiệt",
+      "keyTakeaways": [
+        "Nhiệt độ trung bình năm giảm dần từ vĩ độ thấp về vĩ độ cao (do góc chiếu sáng Mặt Trời giảm dần).",
+        "Nhiệt độ cao nhất không ở Xích đạo (24,5°C) mà ở vùng chí tuyến 20°B (25,0°C) do diện tích lục địa lớn và ít mây.",
+        "Biên độ nhiệt độ năm tăng dần từ vĩ độ thấp về vĩ độ cao (ở Xích đạo chỉ 1,8°C; ở 70°B lên tới 32,2°C).",
+        "Hình thành các vòng đai nhiệt: Vòng đai nóng, vòng đai ôn hoà, vòng đai lạnh và băng giá vĩnh cửu."
+      ],
+      "formulaOrRule": "Quy luật: Càng về gần cực, góc nhập xạ càng nhỏ -> bức xạ giảm -> nhiệt độ trung bình năm càng thấp, biên độ nhiệt năm càng lớn.",
+      "mediaType": "interactive_diagram",
+      "diagramType": "temperature_table",
+      "imageCaption": "Bảng 9 & Đồ thị: Nhiệt độ trung bình năm và biên độ nhiệt năm ở Bán cầu Bắc",
+      "audioScript": "Quan sát Bảng chín, ta thấy nhiệt độ trung bình năm có xu hướng giảm dần từ vĩ độ thấp lên vĩ độ cao. Tuy nhiên, nhiệt độ cao nhất lại rơi vào vùng vĩ độ hai mươi độ Bắc do diện tích lục địa rộng lớn, hình thành các khu áp cao, trời quang mây, chỉ có gió thổi đi.\n Biên độ nhiệt độ năm tăng mạnh từ xích đạo về cực. Nguyên nhân do sự chênh lệch độ dài ngày đêm nên ở cực có biên độ nhiệt cao.",
+      "mainText": "",
+      "emCoBiet": "",
+      "imageUrl": "",
+      "videoUrl": "",
+      "hideMedia": false,
+      "recordedAudioUrl": "media/narration_slide-6.mp3",
+      "layoutMode": "split_50_50",
+      "mediaPosition": "right",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Tại sao nhiệt độ trung bình năm cao nhất ở Bán cầu Bắc không ở Xích đạo mà lại ở vĩ độ 20°B?",
+        "options": [
+          "A. Vì vĩ độ 20°B có diện tích lục địa rộng lớn, ít mây, hoang mạc hấp thụ nhiệt mạnh",
+          "B. Vì Xích đạo nằm xa Mặt Trời hơn vùng chí tuyến",
+          "C. Vì vùng chí tuyến có nhiều băng tuyết phản chiếu nhiệt",
+          "D. Vì vùng Xích đạo gió mùa thổi quanh năm làm lạnh"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Đáp án đúng là A. Vùng 20°B có diện tích lục địa mênh mông, ít mây che phủ nên tích tụ nhiệt cao nhất (25,0°C so với 24,5°C ở Xích đạo)."
+      },
+      "narrationAudioUrl": "media/narration_slide-6.mp3"
+    },
+    {
+      "id": "slide-7",
+      "slideNumber": 8,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "NHIỆT ĐỘ PHÂN BỐ THEO LỤC ĐỊA VÀ ĐẠI DƯƠNG",
+      "subtitle": "Khác biệt về nhiệt dung riêng giữa bề mặt đất và mặt nước",
+      "keyTakeaways": [
+        "Đất hấp thụ nhiệt nhanh hơn và tỏa nhiệt nhanh hơn nước biển (nước có nhiệt dung riêng lớn hơn).",
+        "Mùa hạ: Lục địa nóng hơn đại dương. Mùa đông: Lục địa lạnh hơn đại dương.",
+        "Biên độ nhiệt độ năm: Càng nằm sâu trong lòng lục địa, biên độ nhiệt càng lớn; vùng ven bờ đại dương có khí hậu điều hòa.",
+        "Minh chứng vĩ tuyến 52°B: Valentia (ven biển) biên độ chỉ 9°C; vào sâu lục địa Poznan 21°C, Warszawa 23°C, Kursk lên tới 29°C!",
+        "Nơi có nhiệt độ trung bình năm cao nhất và thấp nhất đều nằm ở lục địa.VD ( cao nhất là hoang mạc Sahara; thấp nhất là lục địa Nam Cực).|",
+        "Nhiệt độ không khí còn thay đổi theo bờ Đông và bờ Tây lục địa do ảnh huongr dòng biển nóng và dòng biển lạnh chạy ven bờ"
+      ],
+      "emCoBiet": "Điểm có nhiệt độ trung bình cao nhất Trái Đất nằm ở hoang mạc Sa-ha-ra (> 40°C); điểm lạnh nhất nằm sâu trong nội địa Nam Cực (-57°C đến -89°C), tất cả đều nằm trên lục địa.",
+      "mediaType": "image",
+      "imageUrl": "media/image_slide-7.jpg",
+      "imageCaption": "Hình 9.2: Sự thay đổi biên độ nhiệt độ năm theo khoảng cách xa đại dương",
+      "audioScript": "Do đất và nước có nhiệt dung riêng khác nhau, đất hấp thụ và tỏa nhiệt nhanh hơn nước. Vì thế, càng đi sâu vào lục địa, biên độ nhiệt năm càng tăng vọt, trong khi ven biển khí hậu quanh năm ôn hòa và mát mẻ. \nNơi có nhiệt độ trung bình năm cao nhất và thấp nhất đều nằm ở lục địa.\nNhiệt độ không khí còn thay đổi theo bờ Đông, bờ Tây của lục địa do ảnh hưởng của dòng biển nóng và dòng biển lạnh chạy ven bờ",
+      "formulaOrRule": "",
+      "videoUrl": "",
+      "hideMedia": false,
+      "layoutMode": "split_50_50",
+      "mediaPosition": "right",
+      "recordedAudioUrl": "media/narration_slide-7.mp3",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Càng đi sâu vào trung tâm lục địa xa đại dương, biên độ nhiệt độ năm thay đổi như thế nào?",
+        "options": [
+          "A. Giảm dần và khí hậu điều hòa quanh năm",
+          "B. Tăng dần (mùa hạ rất nóng, mùa đông rất lạnh)",
+          "C. Hoàn toàn không thay đổi",
+          "D. Luôn duy trì mức 0°C"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Đáp án đúng là B. Do đất hấp thụ và tỏa nhiệt nhanh hơn nước, càng vào sâu trong lục địa tính chất lục địa càng rõ rệt khiến biên độ nhiệt năm tăng vọt."
+      },
+      "narrationAudioUrl": "media/narration_slide-7.mp3"
+    },
+    {
+      "id": "slide-8",
+      "slideNumber": 9,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "NHIỆT ĐỘ PHÂN BỐ THEO ĐỊA HÌNH",
+      "subtitle": "Quy luật đai cao và góc phơi của sườn đón nắng",
+      "keyTakeaways": [
+        "Quy luật đai cao: Trong tầng đối lưu, càng lên cao nhiệt độ càng giảm. Trung bình cứ lên cao 100m nhiệt độ giảm 0,6°C.",
+        "Nguyên nhân: Lên cao không khí càng loãng, mật độ bụi và hơi nước giữ nhiệt ít hơn.",
+        "Độ dốc và hướng phơi: Sườn đón ánh sáng (sườn phơi nắng) có góc chiếu lớn hơn -> nhận được nhiều nhiệt hơn sườn khuất nắng.",
+        "Ứng dụng: Các đô thị trên cao nguyên như Đà Lạt (Lâm Đồng), Sa Pa (Lào Cai), Tam Đảo quanh năm mát mẻ là điểm nghỉ dưỡng lý tưởng."
+      ],
+      "formulaOrRule": "Công thức đai cao: ΔT = (Δh / 100) × 0,6°C (trong đó Δh là chênh lệch độ cao theo mét).",
+      "mediaType": "interactive_diagram",
+      "diagramType": "temperature_elevation",
+      "imageCaption": "Hình 9.3: Nhiệt độ thay đổi theo độ dốc, độ cao và hướng phơi của sườn núi",
+      "audioScript": "Càng lên cao, không khí càng loãng nên khả năng giữ nhiệt giảm. Trung bình cứ lên cao một trăm mét, nhiệt độ giảm không phẩy sáu độ C. Đây chính là lý do vì sao ở độ cao trên một nghìn mét như Đà Lạt hay Sa Pa luôn mát mẻ dễ chịu.",
+      "emCoBiet": "",
+      "imageUrl": "",
+      "videoUrl": "",
+      "hideMedia": false,
+      "layoutMode": "split_50_50",
+      "mediaPosition": "right",
+      "recordedAudioUrl": "media/narration_slide-8.mp3",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Trong tầng đối lưu, trung bình cứ lên cao 100 mét thì nhiệt độ không khí thay đổi như thế nào?",
+        "options": [
+          "A. Tăng 0,6°C",
+          "B. Giảm 0,6°C",
+          "C. Giảm 1,0°C",
+          "D. Không thay đổi"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Đáp án đúng là B. Càng lên cao không khí càng loãng, bụi và hơi nước ít nên khả năng giữ nhiệt giảm, trung bình cứ lên 100m giảm 0,6°C."
+      },
+      "narrationAudioUrl": "media/narration_slide-8.mp3"
+    },
+    {
+      "id": "slide-9",
+      "slideNumber": 10,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "3. KHÍ ÁP VÀ NGUYÊN NHÂN THAY ĐỔI KHÍ ÁP",
+      "subtitle": "Sức nén vô hình của bầu khí quyển lên bề mặt Trái Đất",
+      "keyTakeaways": [
+        "Khái niệm: Khí áp là sức nén của không khí xuống bề mặt Trái Đất. Khí áp tiêu chuẩn ở mực nước biển = 760 mmHg (~ 1.013 mb).",
+        "Thay đổi theo nhiệt độ: Nhiệt độ cao -> không khí nở ra, tỉ trọng giảm -> khí áp giảm. Nhiệt độ thấp -> không khí co lại -> khí áp tăng.",
+        "Thay đổi theo độ cao: Càng lên cao không khí càng loãng, sức nén giảm -> khí áp giảm mạnh.",
+        "Thay đổi theo độ ẩm: Không khí chứa nhiều hơi nước (ẩm) nhẹ hơn không khí khô -> khí áp giảm. Không khí khô -> khí áp tăng."
+      ],
+      "formulaOrRule": "Tóm tắt: Nhiệt độ cao -> Áp thấp; Nhiệt độ thấp -> Áp cao. Càng lên cao -> Áp càng giảm.",
+      "emCoBiet": "Phân tử khối của hơi nước H2O là 18 g/mol, nhẹ hơn đáng kể so với không khí khô (khoảng 29 g/mol, chủ yếu là N2 và O2). Vì vậy không khí càng ẩm thì khí áp lại càng thấp!",
+      "mediaType": "image",
+      "imageUrl": "media/image_slide-9.jpg",
+      "imageCaption": "Khí áp kế thủy ngân và sự thay đổi áp suất khí quyển",
+      "audioScript": "Khí áp là sức nén của không khí lên bề mặt đất. \nKhí áp biến đổi theo ba yếu tố: nhiệt độ, độ cao và độ ẩm.  Theo nhiệt độ: Nhiệt độ cao khí áp giảm và ngược lại. Theo độ cao: lên cao khí áp giảm. Theo độ ẩm: độ ẩm tăng khí áp giảm vì  là hơi nước nhẹ hơn không khí khô, nên không khí ẩm sẽ làm khí áp giảm xuống.",
+      "mainText": "",
+      "videoUrl": "",
+      "hideMedia": false,
+      "recordedAudioUrl": "media/narration_slide-9.mp3",
+      "layoutMode": "split_50_50",
+      "mediaPosition": "right",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Khi nhiệt độ không khí tăng cao và không khí nở ra, khí áp sẽ thay đổi như thế nào?",
+        "options": [
+          "A. Khí áp tăng lên rất cao",
+          "B. Khí áp giảm xuống (hình thành áp thấp)",
+          "C. Khí áp hoàn toàn không đổi",
+          "D. Khí áp lập tức về 0 mmHg"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Đáp án đúng là B. Khi nhiệt độ tăng, không khí nở ra, mật độ phân tử giảm đi và bốc lên cao, làm giảm sức nén xuống bề mặt đất nên hình thành đai áp thấp."
+      },
+      "narrationAudioUrl": "media/narration_slide-9.mp3"
+    },
+    {
+      "id": "slide-10",
+      "slideNumber": 11,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "SỰ HÌNH THÀNH CÁC ĐAI KHÍ ÁP TRÊN TRÁI ĐẤT",
+      "subtitle": "Sự phân bố xen kẽ và đối xứng qua đai áp thấp Xích đạo",
+      "keyTakeaways": [
+        "Phân bố: Các đai khí áp cao và thấp phân bố xen kẽ và đối xứng qua áp thấp xích đạo.",
+        "Đai áp thấp Xích đạo (0°): Do nhiệt độ cao quanh năm, không khí nở ra bốc lên -> Nguyên nhân NHIỆT LỰC.",
+        "Đai áp cao Cận chí tuyến (~30° B&N): Không khí từ xích đạo dồn xuống bề mặt nén chặt -> Nguyên nhân ĐỘNG LỰC.",
+        "Đai áp thấp Ôn đới (~60° B&N): Khối khí từ cận chí tuyến và vùng cực gặp nhau bốc lên -> Nguyên nhân ĐỘNG LỰC.",
+        "Đai áp cao Cực (90° B&N): Nhiệt độ băng giá quanh năm, không khí co lại chìm xuống -> Nguyên nhân NHIỆT LỰC."
+      ],
+      "formulaOrRule": "Quy luật: Áp cao Cực (+) -> Áp thấp Ôn đới (-) -> Áp cao Cận chí tuyến (+) -> Áp thấp Xích đạo (-)",
+      "mediaType": "video",
+      "diagramType": "pressure_belts",
+      "imageCaption": "Hình 9.4: Các đai khí áp và các đới gió chính trên Trái Đất",
+      "audioScript": "Trên Trái Đất có bảy đai khí áp bao gồm: áp thấp xích đạo; 2 áp cao cận chí tuyến; 2 áp thấp ôn đới; 2 áp cao cực.\nCác đai khí áp phân bố xen kẽ và đối xứng qua xích đạo. Trong đó, đai áp thấp xích đạo và áp cao cực hình thành do nhiệt lực, còn đai áp cao cận chí tuyến và áp thấp ôn đới hình thành do động lực.",
+      "emCoBiet": "",
+      "imageUrl": "",
+      "videoUrl": "media/video_slide-10.mp4",
+      "hideMedia": false,
+      "layoutMode": "split_50_50",
+      "mediaPosition": "right",
+      "recordedAudioUrl": "media/narration_slide-10.mp3",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Đai áp thấp Xích đạo (0°) hình thành chủ yếu do nguyên nhân nào?",
+        "options": [
+          "A. Động lực học (do không khí từ nơi khác dồn tới)",
+          "B. Nhiệt lực (do nhiệt độ cao quanh năm, không khí nở ra bốc lên)",
+          "C. Lực Coriolis làm lệch hướng",
+          "D. Lực hút của Mặt Trăng"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Đáp án đúng là B. Vùng Xích đạo nhận được lượng nhiệt lớn quanh năm, không khí bị đốt nóng nở ra bốc lên cao tạo đai áp thấp nhiệt lực."
+      },
+      "narrationAudioUrl": "media/narration_slide-10.mp3"
+    },
+    {
+      "id": "slide-11",
+      "slideNumber": 12,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "CÁC LOẠI GIÓ CHÍNH VÀ HOÀN LƯU KHÍ QUYỂN",
+      "subtitle": "Gió Mậu dịch, Gió Tây ôn đới, Gió Đông cực và Gió mùa",
+      "keyTakeaways": [
+        "Gió Mậu dịch (Tín phong): Thổi từ áp cao cận chí tuyến về áp thấp xích đạo; hướng Đông Bắc (Bắc bán cầu), Đông Nam (Nam bán cầu); thổi đều đặn, tính chất khô.",
+        "Gió Tây ôn đới: Thổi từ áp cao cận chí tuyến về áp thấp ôn đới; hướng Tây Nam (Bắc bán cầu), Tây Bắc (Nam bán cầu); đem nhiều hơi ẩm và mưa.",
+        "Gió Đông cực: Thổi từ áp cao cực về áp thấp ôn đới; hướng Đông Bắc (BBC), Đông Nam (NBC); rất lạnh và khô.",
+        "Gió mùa: Thổi theo mùa với hướng gió trái ngược nhau; hình thành do sự chênh lệch nhiệt độ và khí áp giữa lục địa và đại dương (tiêu biểu ở Nam Á và Đông Nam Á)."
+      ],
+      "mediaType": "interactive_diagram",
+      "diagramType": "pressure_belts",
+      "imageCaption": "Hệ thống hoàn lưu gió hành tinh và lực Coriolis làm lệch hướng gió",
+      "audioScript": "Gió là luồng không khí chuyển động từ nơi áp cao về nơi áp thấp. Ba loại gió hành tinh lớn gồm: gió Mậu dịch thổi về xích đạo, gió Tây ôn đới mang mưa về vùng ôn đới, và gió Đông cực mang giá rét. Ngoài ra, gió mùa là loại gió đổi hướng theo mùa đặc trưng của Việt Nam.",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Loại gió nào thổi quanh năm từ hai đai áp cao cận chí tuyến về đai áp thấp xích đạo?",
+        "options": [
+          "A. Gió Tây ôn đới",
+          "B. Gió Mậu dịch (Tín phong)",
+          "C. Gió Đông cực",
+          "D. Gió đất - gió biển"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Đáp án đúng là B. Gió Mậu dịch (Tín phong) thổi quanh năm và đều đặn từ các đai áp cao cận chí tuyến về đai áp thấp xích đạo, có tính chất khô."
+      },
+      "narrationAudioUrl": "media/narration_slide-11.mp3",
+      "recordedAudioUrl": "media/narration_slide-11.mp3"
+    },
+    {
+      "id": "slide-12",
+      "slideNumber": 13,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "GIÓ ĐỊA PHƯƠNG: GIÓ ĐẤT VÀ GIÓ BIỂN",
+      "subtitle": "Quy luật nhịp điệu ngày - đêm ở vùng ven biển",
+      "keyTakeaways": [
+        "Vị trí: Hình thành ở các dải đất ven biển do sự nóng lên và nguội đi không đều giữa đất liền và mặt biển.",
+        "Ban ngày (Gió biển): Đất liền hấp thụ nhiệt nhanh hơn -> không khí nóng bốc lên tạo áp thấp cục bộ; biển mát hơn tạo áp cao. Gió thổi TỪ BIỂN VÀO ĐẤT LIỀN (mát dịu, giàu ẩm).",
+        "Ban đêm (Gió đất): Đất liền tỏa nhiệt nhanh hơn nên lạnh hơn mặt biển -> đất liền thành áp cao, biển ấm hơn thành áp thấp. Gió thổi TỪ ĐẤT LIỀN RA BIỂN.",
+        "Ứng dụng: Ngư dân thời xưa căng buồm ra khơi vào ban đêm (theo gió đất) và quay về bờ vào ban chiều (theo gió biển)."
+      ],
+      "formulaOrRule": "Quy tắc: Ban ngày = Biển -> Đất (Gió mát). Ban đêm = Đất -> Biển (Gió se lạnh).",
+      "mediaType": "interactive_diagram",
+      "diagramType": "land_sea_breeze",
+      "imageCaption": "Gió biển ban ngày thổi từ biển vào đất liền đem lại hơi mát cho các vùng ven bờ",
+      "audioScript": "Gió đất và gió biển hình thành ven biển do sự chênh lệch nhiệt độ giữa đất và nước. Ban ngày đất liền nóng tạo áp thấp nên gió thổi từ biển vào đất liền đem lại hơi mát. Ban đêm đất lạnh nhanh tạo áp cao nên gió đổi chiều thổi từ đất liền ra biển.",
+      "mainText": "",
+      "emCoBiet": "",
+      "imageUrl": "media/image_slide-custom-1791532081288.jpg",
+      "videoUrl": "",
+      "hideMedia": false,
+      "recordedAudioUrl": "media/narration_slide-12.mp3",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Vào ban ngày ở vùng ven biển, hướng gió thổi chủ yếu là hướng nào?",
+        "options": [
+          "A. Từ đất liền ra biển (gió đất)",
+          "B. Từ biển thổi vào đất liền (gió biển mát dịu)",
+          "C. Gió thổi vòng tròn tại chỗ",
+          "D. Không có gió thổi"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Đáp án đúng là B. Ban ngày đất hấp thụ nhiệt nhanh hơn biển tạo áp thấp, hút gió từ mặt biển mát (áp cao) thổi vào đất liền tạo gió biển mát lành."
+      },
+      "narrationAudioUrl": "media/narration_slide-12.mp3"
+    },
+    {
+      "id": "slide-13",
+      "slideNumber": 14,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "GIÓ PHƠN: BÍ MẬT KHÔ NÓNG KHI VƯỢT NÚI",
+      "subtitle": "Nhiệt ẩm sườn đón gió và biến tính khô nóng sườn khuất gió",
+      "keyTakeaways": [
+        "Khái niệm: Gió phơn (Foehn) là loại gió vượt núi trở nên khô nóng sau khi trút hết mưa ở sườn đón gió.",
+        "Sườn đón gió (ẩm & mưa): Không khí ẩm bị đẩy lên cao, nhiệt độ giảm 0,6°C/100m. Hơi nước ngưng tụ thành mây và gây mưa lớn.",
+        "Sườn khuất gió (khô & nóng): Khi sang sườn bên kia, không khí đã cạn kiệt hơi nước chìm xuống, bị nén lại nên nhiệt độ tăng tới 1,0°C/100m!",
+        "Tại Việt Nam: Tiêu biểu là \"Gió tây nam khô nóng\" (Gió Lào) thổi qua dãy Trường Sơn vào mùa hạ khiến miền Trung nắng rát như rang."
+      ],
+      "formulaOrRule": "Tỉ lệ biến nhiệt: Lên sườn đón gió ẩm: -0,6°C/100m | Xuống sườn khuất gió khô: +1,0°C/100m.",
+      "mediaType": "interactive_diagram",
+      "diagramType": "foehn_wind",
+      "imageCaption": "Hình 9.6: Sơ đồ cơ chế hoạt động của gió phơn vượt núi",
+      "audioScript": "Khi luồng gió ẩm gặp dãy núi cao, nó bị chặn lại và bốc lên, gây mưa xối xả ở sườn đón gió với mức giảm nhiệt không phẩy sáu độ trên một trăm mét. Khi vượt qua đỉnh núi sang sườn khuất gió, không khí khô chìm xuống và nóng lên cực nhanh tới một độ C trên một trăm mét, tạo nên gió phơn khô nóng.",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Khi luồng không khí khô vượt qua đỉnh núi sang sườn khuất gió chìm xuống, nhiệt độ tăng với tỉ lệ bao nhiêu?",
+        "options": [
+          "A. Tăng 0,6°C / 100m",
+          "B. Tăng 1,0°C / 100m (Khô nóng cực nhanh)",
+          "C. Giảm 0,6°C / 100m",
+          "D. Giảm 1,0°C / 100m"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Đáp án đúng là B. Không khí đã cạn kiệt hơi nước chìm xuống bị nén đoạn nhiệt nên nóng lên nhanh chóng với tốc độ +1,0°C/100m, sinh ra gió phơn khô nóng gay gắt."
+      },
+      "narrationAudioUrl": "media/narration_slide-13.mp3",
+      "recordedAudioUrl": "media/narration_slide-13.mp3"
+    },
+    {
+      "id": "slide-14",
+      "slideNumber": 15,
+      "type": "content",
+      "category": "Hình thành kiến thức",
+      "title": "4. CÁC NHÂN TỐ ẢNH HƯỞNG ĐẾN LƯỢNG MƯA",
+      "subtitle": "Khí áp, frông, gió, dòng biển, địa hình và quy luật phân bố mưa",
+      "keyTakeaways": [
+        "Khí áp: Vùng áp thấp hút gió và đẩy không khí ẩm lên cao sinh mưa (Xích đạo); vùng áp cao không khí nén xuống khó bốc hơi nên ít mưa (Chí tuyến, Cực).",
+        "Frông & Dải hội tụ: Không khí nóng bốc lên dọc frông gây mưa nhiều.",
+        "Gió & Vị trí xa/gần biển: Gió Tây ôn đới, gió mùa đem mưa lớn; sâu trong lục địa ít mưa.",
+        "Dòng biển: Ven bờ có dòng biển nóng dòng khí ẩm gây mưa nhiều; ven dòng biển lạnh không khí bị lạnh ổn định khó bốc hơi nên rất ít mưa (tạo hoang mạc bờ tây).",
+        "Phân bố mưa: Nhiều nhất ở Xích đạo (>2.000 mm/năm); ít ở vùng Cận chí tuyến (<500 mm); nhiều ở Ôn đới; ít nhất ở hai Cực (<200 mm)."
+      ],
+      "emCoBiet": "Nơi mưa nhiều nhất thế giới là Cherrapunji (Ấn Độ) lượng mưa xấp xỉ 12.000 mm/năm do sườn đón gió mùa tây nam. Nơi khô hạn nhất là hoang mạc Atacama (Chi-lê) mưa chưa tới 1 mm/năm do dòng biển lạnh Humboldt và áp cao cận chí tuyến.",
+      "mediaType": "interactive_diagram",
+      "diagramType": "rain_factors",
+      "imageCaption": "Hình 9.7: Bản đồ phân bố lượng mưa trung bình năm trên thế giới",
+      "audioScript": "Lượng mưa trên Trái Đất chịu chi phối bởi năm nhân tố: khí áp, frông, gió, dòng biển và địa hình. Khu vực xích đạo có lượng mưa dồi dào nhất, trong khi hai đai áp cao chí tuyến và hai vùng cực lại là những nơi khô hạn nhất hành tinh.",
+      "checkpointQuestion": {
+        "question": "❓ Câu hỏi tương tác điểm dừng: Khu vực nào sau đây trên Trái Đất có lượng mưa trung bình năm lớn nhất?",
+        "options": [
+          "A. Vùng Cận chí tuyến",
+          "B. Vùng Xích đạo (thường >2.000 mm/năm)",
+          "C. Vùng Địa cực",
+          "D. Vùng trung tâm hoang mạc nội địa"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "Đáp án đúng là B. Vùng Xích đạo áp thấp, nhiệt độ cao, bốc hơi mạnh và đối lưu liên tục nên có lượng mưa dồi dào nhất hành tinh (thường trên 2.000 mm/năm)."
+      },
+      "narrationAudioUrl": "media/narration_slide-14.mp3",
+      "recordedAudioUrl": "media/narration_slide-14.mp3"
+    },
+    {
+      "id": "slide-15",
+      "slideNumber": 16,
+      "type": "scenario",
+      "category": "Luyện tập tình huống",
+      "title": "TÌNH HUỐNG 1: GIẢI MÃ THƠ CA VÀ GIÓ PHƠN",
+      "subtitle": "Ứng dụng kiến thức giải thích câu thơ bất hủ của nhà thơ Thúy Bắc",
+      "keyTakeaways": [
+        "Câu thơ: \"Trường Sơn Đông, Trường Sơn Tây / Bên nắng đốt, bên mưa quây...\"",
+        "Học sinh chọn phương án đúng nhất giải thích cơ chế thời tiết hai bên sườn núi.",
+        "Nhận phản hồi sư phạm tức thì về hướng gió mùa Tây Nam và hiệu ứng Phơn."
+      ],
+      "mainText": "Vào đầu mùa hạ, khi gió mùa Tây Nam vượt qua vịnh Thái Lan thổi vào nước ta, dãy núi Trường Sơn hùng vĩ đã tạo nên bức tranh thời tiết đối lập gay gắt giữa hai sườn Đông và Tây.",
+      "mediaType": "none",
+      "hideMedia": true,
+      "audioScript": "Mời các em bước vào tình huống tương tác số một. Dựa vào kiến thức về gió phơn vừa học, hãy giải mã hiện tượng thời tiết độc đáo trong câu thơ nổi tiếng: Trường Sơn Đông, Trường Sơn Tây - Bên nắng đốt, bên mưa quây.",
+      "narrationAudioUrl": "media/narration_slide-15.mp3",
+      "recordedAudioUrl": "media/narration_slide-15.mp3"
+    },
+    {
+      "id": "slide-16",
+      "slideNumber": 17,
+      "type": "scenario",
+      "category": "Luyện tập tình huống",
+      "title": "TÌNH HUỐNG 2: TƯ VẤN DU LỊCH SA PA & ĐÀ LẠT",
+      "subtitle": "Ứng dụng quy luật đai cao để chọn trang phục và giải thích khí hậu",
+      "keyTakeaways": [
+        "Tại sao mùa hè oi ả nhưng người dân đồng bằng lại đổ xô lên Sa Pa và Đà Lạt nghỉ dưỡng?",
+        "Nếu nhiệt độ chân núi là 35°C (độ cao 100m), thì ở đỉnh núi cao 2.100m nhiệt độ là bao nhiêu?",
+        "Cách chọn trang phục thông minh cho chuyến đi nghỉ dưỡng vùng cao."
+      ],
+      "mainText": "Một gia đình dự định đi du lịch Sa Pa vào tháng 7 khi Hà Nội đang nắng nóng gay gắt 38°C. Hãy vận dụng công thức đai cao để tính toán nhiệt độ dự kiến tại Sa Pa (độ cao khoảng 1.600m) và đưa ra lời khuyên chuẩn bị hành lý.",
+      "mediaType": "none",
+      "hideMedia": true,
+      "audioScript": "Tình huống số hai yêu cầu các em tính toán nhiệt độ suy giảm theo độ cao và giải thích vì sao Sa Pa, Đà Lạt luôn mát mẻ vào mùa hè oi ả.",
+      "narrationAudioUrl": "media/narration_slide-16.mp3",
+      "recordedAudioUrl": "media/narration_slide-16.mp3"
+    },
+    {
+      "id": "slide-17",
+      "slideNumber": 18,
+      "type": "scenario",
+      "category": "Luyện tập tình huống",
+      "title": "TÌNH HUỐNG 3: BÍ QUYẾT RA KHƠI CỦA NGƯ DÂN",
+      "subtitle": "Kinh nghiệm dân gian và cơ chế khoa học của gió đất - gió biển",
+      "keyTakeaways": [
+        "Kinh nghiệm ngư dân vùng biển: \"Căng buồm lúc chập tối ra khơi, buông lưới rồi đón gió chiều về bến\".",
+        "Giải thích cơ chế vật lý: Tại sao ban đêm gió đẩy thuyền ra khơi, ban chiều gió đẩy thuyền vào bờ?",
+        "Bài học về sự thích ứng khôn ngoan của con người với tự nhiên."
+      ],
+      "mainText": "Hãy phân tích nhịp điệu hoạt động đánh bắt hải sản của ngư dân ven biển miền Trung dựa trên quy luật đổi hướng ngày - đêm của gió đất và gió biển.",
+      "mediaType": "none",
+      "hideMedia": true,
+      "audioScript": "Ở tình huống số ba, chúng ta sẽ cùng khám phá trí tuệ của ngư dân truyền thống khi tận dụng nhịp điệu của gió đất và gió biển để căng buồm ra khơi đánh bắt cá.",
+      "narrationAudioUrl": "media/narration_slide-17.mp3",
+      "recordedAudioUrl": "media/narration_slide-17.mp3"
+    },
+    {
+      "id": "slide-18",
+      "slideNumber": 19,
+      "type": "quiz",
+      "category": "Đánh giá năng lực",
+      "title": "BỘ CÂU HỎI KIỂM TRA ĐÁNH GIÁ NĂNG LỰC",
+      "subtitle": "Thang điểm 100 — Ngưỡng đạt chuẩn (Mastery): 80 điểm",
+      "keyTakeaways": [
+        "3 câu Trắc nghiệm khách quan 4 lựa chọn (Nhận biết, Thông hiểu, Vận dụng)",
+        "2 câu Đúng / Sai đa mệnh đề (theo cấu trúc đề thi tốt nghiệp THPT 2018)",
+        "2 câu Trả lời ngắn / Điền khuyết tính toán địa lý",
+        "Hệ thống tự động chấm điểm và hiển thị giải thích chi tiết."
+      ],
+      "mainText": "Hãy hoàn thành bài kiểm tra trắc nghiệm dưới đây để đánh giá mức độ tiếp thu bài học. Bạn cần đạt tối thiểu 80/100 điểm để được cấp Giấy chứng nhận hoàn thành khoá học.",
+      "mediaType": "none",
+      "hideMedia": true,
+      "audioScript": "Bây giờ là phần Luyện tập và Đánh giá. Các em hãy đọc kỹ từng câu hỏi, suy nghĩ thấu đáo và chọn câu trả lời chính xác để đạt điểm tuyệt đối nhé!",
+      "narrationAudioUrl": "media/narration_slide-18.mp3",
+      "recordedAudioUrl": "media/narration_slide-18.mp3"
+    },
+    {
+      "id": "slide-19",
+      "slideNumber": 20,
+      "type": "summary",
+      "category": "Tổng kết & Chứng nhận",
+      "title": "TỔNG KẾT: SƠ ĐỒ TƯ DUY & CẨM NANG KHÍ TƯỢNG",
+      "subtitle": "Khái quát 4 yếu tố khí hậu cốt lõi trên một trang màn hình",
+      "keyTakeaways": [
+        "NHIỆT ĐỘ: Giảm từ xích đạo về cực; biên độ tăng sâu trong lục địa; giảm 0,6°C/100m đai cao.",
+        "KHÍ ÁP: 7 đai xen kẽ đối xứng; nhiệt độ cao/ẩm -> áp thấp; lạnh/khô/trên cao -> áp cao.",
+        "GIÓ: Mậu dịch (khô), Tây ôn đới (ẩm), Gió mùa (đổi mùa), Gió đất/biển (ngày/đêm), Gió phơn (vượt núi khô nóng).",
+        "MƯA: Xích đạo mưa nhiều nhất; Cực và Chí tuyến ít mưa; phụ thuộc áp thấp, frông, dòng biển nóng."
+      ],
+      "mainText": "Bài học đã trang bị cho các em hệ thống kiến thức nền tảng về quyển khí bao quanh Trái Đất và cơ chế vận hành của thời tiết khí hậu. Đây là chìa khóa để hiểu và ứng phó với biến đổi khí hậu trong thế kỷ 21.",
+      "mediaType": "none",
+      "hideMedia": true,
+      "audioScript": "Chúc mừng các em đã hoàn thành toàn bộ nội dung bài học. Hãy lưu lại sơ đồ tư duy tóm tắt này và xem các hướng dẫn an toàn thời tiết cực đoan trong cẩm nang nhé!",
+      "formulaOrRule": "",
+      "emCoBiet": "",
+      "imageUrl": "",
+      "imageCaption": "",
+      "videoUrl": "",
+      "recordedAudioUrl": "media/narration_slide-19.mp3",
+      "narrationAudioUrl": "media/narration_slide-19.mp3"
+    },
+    {
+      "id": "slide-20",
+      "slideNumber": 21,
+      "type": "certificate",
+      "category": "Tổng kết & Chứng nhận",
+      "title": "GIẤY CHỨNG NHẬN HOÀN THÀNH BÀI HỌC E-LEARNING",
+      "subtitle": "Vinh danh học sinh xuất sắc hoàn thành chuẩn chương trình GDPT 2018",
+      "keyTakeaways": [
+        "Được cấp tự động khi học sinh hoàn thành các bước học tập và bài kiểm tra.",
+        "Ghi nhận họ tên, điểm số, ngày cấp, mã xác thực điện tử.",
+        "Hỗ trợ in trực tiếp hoặc xuất ảnh chứng nhận chất lượng cao."
+      ],
+      "mainText": "Nhập họ tên và trường lớp của em để in hoặc tải về Giấy chứng nhận hoàn thành bài học \"Bài 9: Khí quyển, các yếu tố khí hậu\".",
+      "mediaType": "none",
+      "hideMedia": true,
+      "audioScript": "Chúc mừng em đã xuất sắc hoàn thành khóa học e-Learning. Hãy điền họ tên của mình để nhận Giấy chứng nhận hoàn thành bài học nhé!",
+      "formulaOrRule": "",
+      "emCoBiet": "",
+      "imageUrl": "",
+      "imageCaption": "",
+      "videoUrl": "",
+      "layoutMode": "full_text",
+      "mediaPosition": "right",
+      "recordedAudioUrl": "media/narration_slide-20.mp3",
+      "narrationAudioUrl": "media/narration_slide-20.mp3"
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "scen-1",
+      "title": "Tình huống 1: Dự báo thời tiết & Chọn trang phục du lịch Sa Pa - Fansipan",
+      "context": "Ứng dụng điện thoại dự báo: \"Lào Cai trời nắng ráo 35°C (đo ở chân núi 100m)\". Gia đình bạn Minh dự định đi nghỉ hè tại thị xã Sa Pa (1.600m) và đi cáp treo lên đỉnh Fansipan (3.143m). Minh cho rằng thời tiết mùa hè thì ở đâu cũng như Hà Nội nên chỉ xếp vào vali toàn áo phông cộc tay và quần soóc mỏng.",
+      "question": "Vận dụng quy luật đai cao nhiệt độ trong tầng đối lưu và hiện tượng sương mù núi cao, em hãy tư vấn phương án trang phục và hành động khoa học nhất cho gia đình bạn Minh:",
+      "literatureReference": "Ứng dụng quy luật đai cao: Cứ lên cao 100m nhiệt độ giảm 0,6°C",
+      "options": [
+        {
+          "id": "opt-1-a",
+          "text": "A. Chuẩn bị trang phục linh hoạt nhiều lớp: Ở thị xã Sa Pa ban ngày mát mẻ (25-26°C), ban đêm se lạnh (18-20°C); riêng trên đỉnh Fansipan (3.143m) nhiệt độ chỉ còn khoảng 16-17°C, kèm gió giật và sương mù dày nên bắt buộc mang áo ấm cản gió, áo mưa mỏng và giày bám chống trơn.",
+          "isCorrect": true,
+          "pedagogicalFeedback": "Xuất sắc! Bạn đã vận dụng hoàn hảo công thức đai cao và hiểu rõ đặc điểm thời tiết núi cao nhiệt đới.",
+          "geographicalExplanation": "Tính toán theo quy luật đai cao: \n- Tại Sa Pa (1.600m): Δh = 1.500m -> Nhiệt độ giảm: (1.500/100) × 0,6 = 9,0°C -> T = 35 - 9 = 26°C ban ngày, đêm xuống dưới 20°C.\n- Tại đỉnh Fansipan (3.143m): Δh = 3.043m -> Nhiệt độ giảm: (3.043/100) × 0,6 = 18,3°C -> T = 35 - 18,3 = 16,7°C ban ngày! Ở độ cao trên 3.000m, áp suất khí quyển giảm, gió thổi mạnh và mây mù bao phủ khiến thân nhiệt hạ rất nhanh, mang áo ấm cản gió là yêu cầu an toàn sống còn."
+        },
+        {
+          "id": "opt-1-b",
+          "text": "B. Đồng ý với bạn Minh chỉ mang áo cộc tay và đồ bơi vì cùng nằm trong lãnh thổ Việt Nam thì mùa hè nơi nào cũng nắng nóng trên 30°C; lên cao chỉ thoáng gió hơn đôi chút.",
+          "isCorrect": false,
+          "pedagogicalFeedback": "Sai lầm nghiêm trọng! Bạn đã bỏ qua quy luật đai cao của khí hậu và sự giảm nhiệt độ trong tầng đối lưu.",
+          "geographicalExplanation": "Trong tầng đối lưu, càng lên cao không khí càng loãng và lượng hơi nước, bụi giữ nhiệt càng ít. Nếu chỉ mặc áo cộc tay lên độ cao 3.143m của Fansipan (16°C kèm gió giật), học sinh sẽ rất dễ bị nhiễm lạnh đột ngột và hạ thân nhiệt nguy hiểm."
+        },
+        {
+          "id": "opt-1-c",
+          "text": "C. Khuyên gia đình hủy chuyến đi hoặc phải mua áo phao lông vũ đại hàn loại cực dày chuyên dụng Bắc Cực vì trên đỉnh Fansipan quanh năm âm 15°C đóng băng tuyết như đỉnh Everest.",
+          "isCorrect": false,
+          "pedagogicalFeedback": "Chưa chính xác và hoang mang không cần thiết! Fansipan ở đới nhiệt đới, vào mùa hè duy trì nền nhiệt 15-18°C chứ không đóng băng đại hàn.",
+          "geographicalExplanation": "Băng tuyết tại Fansipan chỉ xuất hiện cục bộ vào những đợt rét đậm mùa đông (tháng 12 - tháng 2) khi có không khí lạnh cực mạnh từ phương Bắc tràn về. Tháng 7 là mùa hè, nhiệt độ mát mẻ chỉ cần áo khoác gió ấm vừa phải."
+        }
+      ]
+    },
+    {
+      "id": "scen-2",
+      "title": "Tình huống 2: Ứng phó thời tiết cực đoan gió Phơn khô nóng & Biến đổi khí hậu tại miền Trung",
+      "context": "Dưới tác động của biến đổi khí hậu toàn cầu kết hợp hiệu ứng gió Phơn Tây Nam thổi vượt dãy Trường Sơn, khu vực Bắc Trung Bộ đang trải qua đợt nắng nóng đặc biệt gay gắt: nhiệt độ ngoài trời 41°C, độ ẩm không khí tụt sâu dưới 28%, gió thổi rát như lò nung. Một nhóm học sinh đang tham gia chuyến cắm trại dã ngoại ngoại khóa ở bìa rừng huyện Hương Sơn (Hà Tĩnh).",
+      "question": "Để bảo đảm an toàn tính mạng, phòng chống sốc nhiệt và ngăn ngừa nguy cơ hỏa hoạn, nhóm học sinh nên chọn phương án hành động nào?",
+      "literatureReference": "Hiện tượng Gió Phơn khô nóng kết hợp hiện tượng nóng lên toàn cầu",
+      "options": [
+        {
+          "id": "opt-2-a",
+          "text": "A. Tận dụng thời tiết khô ráo để gom lá khô đốt lửa trại nấu nướng ngay bìa rừng vào buổi trưa 12h-14h; sau đó tắm sông suối sâu để giải nhiệt nhanh.",
+          "isCorrect": false,
+          "pedagogicalFeedback": "Cực kỳ nguy hiểm! Hành động này vi phạm nghiêm trọng an toàn phòng chống cháy rừng và an toàn đuối nước.",
+          "geographicalExplanation": "Khi gió Phơn hoạt động, độ ẩm không khí dưới 30% làm thảm thực vật bìa rừng khô kiệt như bùi nhùi, chỉ cần một tàn lửa nhỏ gặp gió mạnh sẽ bùng phát thành thảm họa cháy rừng diện rộng. Ngoài ra, nhảy tắm sông khi thân nhiệt đang 40°C rất dễ dẫn tới sốc nhiệt và đột quỵ."
+        },
+        {
+          "id": "opt-2-b",
+          "text": "B. Tuyệt đối không dùng lửa gần bìa rừng; tạm dừng hoạt động thể lực ngoài trời từ 11h đến 16h; di chuyển vào lán trại râm mát thoáng khí; bù nước đều đặn có khoáng chất và mặc trang phục cotton dài tay thoáng khí.",
+          "isCorrect": true,
+          "pedagogicalFeedback": "Rất chính xác và khoa học! Bạn đã nắm vững cơ chế khô nóng của gió Phơn và kỹ năng sinh tồn trong thời tiết cực đoan.",
+          "geographicalExplanation": "Gió Phơn vượt núi Trường Sơn mang tính chất khô nóng tột độ (nhiệt độ tăng 1°C/100m khi xuống sườn đông). Độ ẩm cực thấp làm cơ thể thoát mồ hôi không kịp nhận biết, dẫn đến mất nước âm thầm. Việc tránh nắng khung giờ cao điểm (11h-16h), bổ sung điện giải và tuân thủ lệnh cấm lửa là quyết định chính xác 100%."
+        },
+        {
+          "id": "opt-2-c",
+          "text": "C. Đóng kín mít toàn bộ cửa lều bạt để ngăn gió nóng thổi vào, bật quạt mini thổi trực diện vào người và nhịn uống nước để tránh đổ mồ hôi gây nhớp nháp.",
+          "isCorrect": false,
+          "pedagogicalFeedback": "Sai lầm! Đóng kín lều trong thời tiết 41°C sẽ tạo hiệu ứng nhà kính biến lều thành lò xông hơi ngột ngạt.",
+          "geographicalExplanation": "Không khí tù đọng không đối lưu sẽ làm nhiệt độ trong lều tăng cao hơn ngoài trời. Việc nhịn uống nước trong điều kiện khô nóng sẽ đẩy cơ thể vào tình trạng kiệt sức vì mất nước cấp tính, dẫn tới co giật và tổn thương não bộ do sốc nhiệt."
+        }
+      ]
+    },
+    {
+      "id": "scen-3",
+      "title": "Tình huống 3: Quy luật căng buồm theo gió đất - gió biển của ngư dân",
+      "context": "Bác Ba là một ngư dân nhiều đời ở làng chài ven biển Quảng Bình. Bác dặn người học việc: \"Muốn thuyền buồm chạy êm mà không tốn sức chèo, chập tối canh lúc gió từ bờ thổi ra thì căng buồm ra khơi, trưa hôm sau canh lúc gió biển thổi vào thì xuôi buồm về bến\".",
+      "question": "Cơ sở khoa học tự nhiên nào giải thích cho kinh nghiệm quý báu của bác Ba?",
+      "options": [
+        {
+          "id": "opt-3-a",
+          "text": "A. Do lực Coriolis vào ban đêm đẩy nước biển dâng cao kéo thuyền đi, ban ngày hút nước biển lùi lại.",
+          "isCorrect": false,
+          "pedagogicalFeedback": "Không đúng! Lực Coriolis chỉ làm lệch hướng chuyển động của gió và dòng nước, không trực tiếp đẩy thuyền ra vào theo nhịp ngày đêm.",
+          "geographicalExplanation": "Động lực giúp thuyền di chuyển là gió đất và gió biển do chênh lệch nhiệt lượng."
+        },
+        {
+          "id": "opt-3-b",
+          "text": "B. Do quy luật gió đất và gió biển: Ban đêm đất nguội nhanh tạo áp cao thổi gió ra biển giúp đẩy thuyền ra khơi; ban ngày đất nóng lên tạo áp thấp hút gió biển vào bờ giúp thuyền về bến.",
+          "isCorrect": true,
+          "pedagogicalFeedback": "Chính xác 100%! Bạn đã vận dụng xuất sắc quy luật gió đất - gió biển.",
+          "geographicalExplanation": "Đất liền có nhiệt dung riêng nhỏ hơn nước biển, ban đêm đất tỏa nhiệt nhanh nên lạnh hơn biển (đất = áp cao, biển = áp thấp -> gió thổi từ đất ra biển). Ban ngày đất nóng nhanh hơn biển (đất = áp thấp, biển = áp cao -> gió thổi từ biển vào đất)."
+        },
+        {
+          "id": "opt-3-c",
+          "text": "C. Do gió Mậu dịch ban ngày ngừng hoạt động và chỉ thổi vào ban đêm.",
+          "isCorrect": false,
+          "pedagogicalFeedback": "Chưa chính xác! Gió Mậu dịch là gió hành tinh thổi quanh năm và gần như không đổi hướng theo nhịp ngày đêm.",
+          "geographicalExplanation": "Sự đổi hướng ngày đêm chỉ xảy ra ở loại gió địa phương ven bờ biển."
+        }
+      ]
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "q-mcq-1",
+      "type": "multiple_choice",
+      "level": "Nhận biết",
+      "question": "Tầng nào của khí quyển tập trung khoảng 80% khối lượng không khí và là nơi diễn ra hầu hết các hiện tượng thời tiết như mây, mưa, sấm, chớp?",
+      "options": [
+        "A. Tầng bình lưu",
+        "B. Tầng đối lưu",
+        "C. Tầng giữa",
+        "D. Tầng nhiệt"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Đáp án đúng là B. Tầng đối lưu (độ cao từ 0 đến 16 km) chứa tới 80% khối lượng không khí và 3/4 lượng hơi nước của toàn bộ khí quyển, nên mọi hiện tượng thời tiết đều sinh ra tại đây."
+    },
+    {
+      "id": "q-mcq-2",
+      "type": "multiple_choice",
+      "level": "Thông hiểu",
+      "question": "Tại sao nhiệt độ trung bình năm cao nhất trên Trái Đất không nằm ở vùng Xích đạo mà lại nằm ở vùng vĩ độ 20°B (vùng chí tuyến)?",
+      "options": [
+        "A. Vì Xích đạo có góc chiếu sáng của Mặt Trời nhỏ hơn vùng chí tuyến.",
+        "B. Vì vùng chí tuyến có diện tích lục địa rất rộng lớn, ít mây và bề mặt hoang mạc hấp thụ nhiệt mạnh.",
+        "C. Vì vùng chí tuyến chịu ảnh hưởng của các dòng biển nóng chảy qua.",
+        "D. Vì vùng Xích đạo có nhiều băng tuyết phản xạ ánh sáng."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Đáp án đúng là B. Vùng Xích đạo tuy có góc chiếu sáng lớn nhưng có diện tích đại dương lớn, độ ẩm cao và mây mưa nhiều nên giữ nhiệt điều hòa (24,5°C). Trong khi đó, vĩ độ 20°B có diện tích lục địa mênh mông, ít mây, thời gian chiếu sáng nhiều nên nhiệt độ trung bình năm cao nhất (25,0°C)."
+    },
+    {
+      "id": "q-mcq-3",
+      "type": "multiple_choice",
+      "level": "Vận dụng",
+      "question": "Một luồng không khí ẩm có nhiệt độ 28°C ở chân núi (độ cao 0m) thổi lên sườn đón gió của một ngọn núi cao 2.000m. Sau khi trút hết mưa ở đỉnh núi, luồng không khí khô đó vượt sang chân núi ở sườn khuất gió (độ cao 0m). Hỏi nhiệt độ của không khí ở chân núi sườn khuất gió là bao nhiêu?",
+      "options": [
+        "A. 28°C",
+        "B. 32°C",
+        "C. 36°C",
+        "D. 24°C"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Đáp án đúng là C. 36°C!\n- Lên sườn đón gió ẩm: nhiệt độ giảm 0,6°C/100m. Lên 2.000m giảm: (2.000 / 100) × 0,6 = 12°C. Nhiệt độ tại đỉnh núi = 28°C - 12°C = 16°C.\n- Xuống sườn khuất gió khô: nhiệt độ tăng 1,0°C/100m. Xuống 2.000m tăng: (2.000 / 100) × 1,0 = 20°C.\n- Nhiệt độ chân sườn khuất gió = 16°C + 20°C = 36°C (tăng vọt 8°C so với sườn đón gió, thể hiện rõ tính chất khô nóng của gió Phơn)."
+    },
+    {
+      "id": "q-tf-1",
+      "type": "true_false",
+      "level": "Thông hiểu",
+      "prompt": "Về nguyên nhân thay đổi của khí áp trên Trái Đất, xét tính Đúng / Sai của các mệnh đề sau:",
+      "statements": [
+        {
+          "statement": "a) Khi nhiệt độ không khí tăng lên, không khí nở ra làm tỉ trọng giảm đi, dẫn đến khí áp giảm xuống.",
+          "isTrue": true
+        },
+        {
+          "statement": "b) Càng lên cao không khí càng loãng, mật độ hạt giảm nên sức nén của không khí tăng lên làm khí áp tăng.",
+          "isTrue": false
+        },
+        {
+          "statement": "c) Không khí ẩm (chứa nhiều hơi nước) có khối lượng riêng nhẹ hơn không khí khô nên có khí áp thấp hơn.",
+          "isTrue": true
+        },
+        {
+          "statement": "d) Các đai áp cao và áp thấp trên bề mặt Trái Đất đều hình thành thuần túy do nguyên nhân nhiệt lực.",
+          "isTrue": false
+        }
+      ],
+      "explanation": "Giải thích chi tiết:\n- a) ĐÚNG: Nhiệt cao -> không khí nở ra -> tỉ trọng giảm -> khí áp giảm.\n- b) SAI: Càng lên cao không khí càng loãng -> sức nén giảm -> khí áp GIẢM mạnh (không phải tăng).\n- c) ĐÚNG: Phân tử khối H2O (18) nhẹ hơn không khí khô (khoảng 29) nên không khí ẩm có khí áp thấp hơn.\n- d) SAI: Chỉ có đai áp thấp xích đạo và áp cao cực do nhiệt lực, còn đai áp cao cận chí tuyến và áp thấp ôn đới hình thành do nguyên nhân ĐỘNG LỰC."
+    },
+    {
+      "id": "q-tf-2",
+      "type": "true_false",
+      "level": "Vận dụng",
+      "prompt": "Xét tính Đúng / Sai của các nhận định sau đây về sự phân bố lượng mưa trên Trái Đất:",
+      "statements": [
+        {
+          "statement": "a) Khu vực Xích đạo là nơi có lượng mưa trung bình năm lớn nhất trên Trái Đất (thường trên 2.000 mm/năm).",
+          "isTrue": true
+        },
+        {
+          "statement": "b) Ở vùng chí tuyến có các đai áp cao ngự trị, không khí giáng xuống khó ngưng tụ nên mưa rất ít, hình thành nhiều hoang mạc lớn.",
+          "isTrue": true
+        },
+        {
+          "statement": "c) Nơi có dòng biển lạnh chảy qua ven bờ thường có mưa rất lớn do hơi nước bốc lên dồi dào.",
+          "isTrue": false
+        },
+        {
+          "statement": "d) Miền có frông đi qua hoặc nằm trong dải hội tụ nhiệt đới thường xuyên có mưa dông lượng lớn.",
+          "isTrue": true
+        }
+      ],
+      "explanation": "Giải thích chi tiết:\n- a) ĐÚNG: Xích đạo áp thấp, nhiệt độ cao bốc hơi mạnh, rừng rậm ẩm ướt nên mưa nhiều nhất.\n- b) ĐÚNG: Áp cao chí tuyến nén không khí xuống, không khí khô nóng nên hoang mạc như Sahara, Atacama ngự trị.\n- c) SAI: Ven dòng biển lạnh, lớp không khí sát mặt biển bị lạnh đi ổn định, không thể bốc lên cao để ngưng tụ mây nên rất khô hạn, thậm chí tạo hoang mạc ngay sát biển!\n- d) ĐÚNG: Frông và dải hội tụ là nơi các khối khí gặp nhau bốc lên, gây mưa xối xả."
+    },
+    {
+      "id": "q-sa-1",
+      "type": "short_answer",
+      "level": "Thông hiểu",
+      "question": "Trong tầng đối lưu, trung bình khi lên cao thêm 100 mét thì nhiệt độ không khí giảm đi bao nhiêu độ C? (Nhập giá trị số, ví dụ: 0.6 hoặc 0,6)",
+      "acceptableAnswers": [
+        "0.6",
+        "0,6",
+        "0.6 độ",
+        "0,6 độ",
+        "0.6°C",
+        "0,6°C"
+      ],
+      "unit": "°C",
+      "hint": "Quy luật đai cao trong tầng đối lưu đối với không khí ẩm",
+      "explanation": "Trong tầng đối lưu của khí quyển, cứ lên cao 100m nhiệt độ không khí giảm trung bình 0,6°C (hay 6°C khi lên cao 1.000m)."
+    },
+    {
+      "id": "q-sa-2",
+      "type": "short_answer",
+      "level": "Vận dụng",
+      "question": "Hiện tượng gió vượt núi trở nên khô nóng sau khi qua sườn đón gió (như gió Lào ở miền Trung Việt Nam vào mùa hạ) được gọi là hiệu ứng gió gì? (Viết tên loại gió)",
+      "acceptableAnswers": [
+        "phơn",
+        "foehn",
+        "gió phơn",
+        "hiệu ứng phơn",
+        "gió foehn",
+        "gió lào"
+      ],
+      "hint": "Từ mượn tiếng Đức (Foehn), phiên âm tiếng Việt gồm 1 từ bắt đầu bằng chữ P",
+      "explanation": "Đó là Gió phơn (tiếng Đức: Foehn). Ở Việt Nam hiện tượng này thường được dân gian gọi là \"Gió Lào\" hay gió tây nam khô nóng."
+    }
+  ],
+  "exportDate": "2026-10-13T01:24:29.486Z"
+}
